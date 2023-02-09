@@ -1,1 +1,1 @@
-# Day-31 of 100 days of Python
+# Flash Card App Capstone
